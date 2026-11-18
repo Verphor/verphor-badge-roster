@@ -4,12 +4,12 @@
 # The last column determines the rank, regardless of the section. Each UUID can appear once.
 
 # Owner
-# 00000000-0000-0000-0000-000000000001  ExampleOwner1      owner
+# 8b44028b-8b2c-4448-b55c-e93579b22aec  Voicm      owner
 # 00000000-0000-0000-0000-000000000002  ExampleOwner2      owner
 # 00000000-0000-0000-0000-000000000003  ExampleOwner3      owner
 
 # Developer
-# 00000000-0000-0000-0000-000000000004  ExampleDev1        developer
+# b03e4824-b1bb-4cf1-bc25-514e1c30e55a  FezIsOut        developer
 # 00000000-0000-0000-0000-000000000005  ExampleDev2        developer
 # 00000000-0000-0000-0000-000000000006  ExampleDev3        developer
 
