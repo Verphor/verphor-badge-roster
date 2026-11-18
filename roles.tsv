@@ -1,9 +1,39 @@
 # UUID                                 IGN                Rank
-# Example rows are ignored. Replace UUID, then remove the leading # to activate.
-# 00000000-0000-0000-0000-000000000001  ExampleOwner       owner
-# 00000000-0000-0000-0000-000000000002  ExampleDeveloper   developer
-# 00000000-0000-0000-0000-000000000003  ExampleAdmin       admin
-# 00000000-0000-0000-0000-000000000004  ExampleAgent       agent
-# 00000000-0000-0000-0000-000000000005  ExampleStaff       staff
-# 00000000-0000-0000-0000-000000000006  ExampleTester      tester
-# 00000000-0000-0000-0000-000000000007  ExampleArtist      artist
+# Use one row per player. A rank can appear on as many rows as needed.
+# Lines starting with # are ignored. Replace the example UUID and IGN before uncommenting.
+# The last column determines the rank, regardless of the section. Each UUID can appear once.
+
+# Owner
+# 00000000-0000-0000-0000-000000000001  ExampleOwner1      owner
+# 00000000-0000-0000-0000-000000000002  ExampleOwner2      owner
+# 00000000-0000-0000-0000-000000000003  ExampleOwner3      owner
+
+# Developer
+# 00000000-0000-0000-0000-000000000004  ExampleDev1        developer
+# 00000000-0000-0000-0000-000000000005  ExampleDev2        developer
+# 00000000-0000-0000-0000-000000000006  ExampleDev3        developer
+
+# Admin
+# 00000000-0000-0000-0000-000000000007  ExampleAdmin1      admin
+# 00000000-0000-0000-0000-000000000008  ExampleAdmin2      admin
+# 00000000-0000-0000-0000-000000000009  ExampleAdmin3      admin
+
+# Agent
+# 00000000-0000-0000-0000-000000000010  ExampleAgent1      agent
+# 00000000-0000-0000-0000-000000000011  ExampleAgent2      agent
+# 00000000-0000-0000-0000-000000000012  ExampleAgent3      agent
+
+# Staff
+# 00000000-0000-0000-0000-000000000013  ExampleStaff1      staff
+# 00000000-0000-0000-0000-000000000014  ExampleStaff2      staff
+# 00000000-0000-0000-0000-000000000015  ExampleStaff3      staff
+
+# Tester
+# 00000000-0000-0000-0000-000000000016  ExampleTester1     tester
+# 00000000-0000-0000-0000-000000000017  ExampleTester2     tester
+# 00000000-0000-0000-0000-000000000018  ExampleTester3     tester
+
+# Artist
+# 00000000-0000-0000-0000-000000000019  ExampleArtist1     artist
+# 00000000-0000-0000-0000-000000000020  ExampleArtist2     artist
+# 00000000-0000-0000-0000-000000000021  ExampleArtist3     artist
