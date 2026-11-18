@@ -1,0 +1,9 @@
+# UUID                                 IGN                Rank
+# Example rows are ignored. Replace UUID, then remove the leading # to activate.
+# 00000000-0000-0000-0000-000000000001  ExampleOwner       owner
+# 00000000-0000-0000-0000-000000000002  ExampleDeveloper   developer
+# 00000000-0000-0000-0000-000000000003  ExampleAdmin       admin
+# 00000000-0000-0000-0000-000000000004  ExampleAgent       agent
+# 00000000-0000-0000-0000-000000000005  ExampleStaff       staff
+# 00000000-0000-0000-0000-000000000006  ExampleTester      tester
+# 00000000-0000-0000-0000-000000000007  ExampleArtist      artist
